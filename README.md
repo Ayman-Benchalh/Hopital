@@ -54,12 +54,7 @@ php artisan storage:link
  php artisan serve
 ```
 
-## Admin Credentials
-Admin: 
-```bash 
-tauseed@test.com
-```
-Password: 
+
 ```bash
 tauseed
 ```
